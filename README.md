@@ -16,11 +16,13 @@ Clique [aqui]() para baixar apenas o arquivo de instalação
 ### Intalar e executar este projeto
 Clone este repositorio em sua máquina.
 Em seguida é recomendado que use um ambiente virtual para rodar este projeto, que pode ser criado com o comando abaixo:
-```
-#Obs: Para este projeto esta sendo usado a versão 3.11 do python, para outras versões este projeto não foi testado.
-python -m venv venv
 
-#Obs: O comando abaixo cria em ambiente virtual venv com nome de venv, para alterar o nome basta rodar o mesmo comando alterando o final para o nome que deseja no seu ambiente virtual
+Obs: Para este projeto esta sendo usado a versão 3.11 do python, para outras versões este projeto não foi testado.
+```
+python -m venv venv
+```
+Obs: O comando abaixo cria em ambiente virtual venv com nome de venv, para alterar o nome basta rodar o mesmo comando alterando o final para o nome que deseja no seu ambiente virtual
+```
 python -m venv nomedoseuambientevirtual
 ```
 
